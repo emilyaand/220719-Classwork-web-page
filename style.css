@@ -1,0 +1,17 @@
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper {
+    font-family: 'Popins', sans-serif;
+}
+.container {
+    width: 1000px;
+    border: 1px solid black;
+    margin: 0 auto;
+    height: 20px;
+}
+.blog >p, news > p {
+
+}
